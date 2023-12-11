@@ -42,3 +42,10 @@ body{
 {
      padding:1em;
     }
+
+    #footer
+    {
+        background:rgb(255, 174, 174);
+        color:black;
+        text-align: center;
+    }

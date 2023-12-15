@@ -1,20 +1,20 @@
 body{
-    color:rgb(255, 180, 180) (22, 22, 22) (92, 43, 226); 
+    color:black;
     text-align:center;
-    font-family:Arial;
-    font-size:16px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
     margin:0;
     padding:0}
 
 #cabecera
 {
 
-    background:rgb(182, 240, 255);
-    box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
+    background:red; 
+    box-shadow:0 4px 20px 0 rgba(0,0,0,.5);
     color:rgb(15, 29, 29); 
-    font-weight:700;
+    font-weight:900;
     margin:0;
-    padding:.5em
+    padding:.9em 
 }
 
 #cabecera #tagline
@@ -25,7 +25,7 @@ body{
 }
 #container 
 {
-    width:70%;
+    width:90%;
     padding:0;
     text-align:left;
     border:1px solid #333;
